@@ -1,0 +1,13 @@
+Package: com.xabbasoo.textnownoads
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Abbas Albanai <xabbasoo@icloud.com>
+Filename: debs/com.xabbasoo.textnownoads_0.0.1_iphoneos-arm.deb
+Size: 3464
+MD5sum: 7a4463899e06c5c535c186de6ffef958
+SHA1: 60f45a9e7c26d316776b730dc58fd0f6c6e5e58c
+SHA256: e5b527eb4b4afed42b3a8f8e0aecadf8ac36a8adf912f28da4c96909bb57ac1f
+Section: Tweaks
+Description: An awesome mobile substrate tweak
+Author: Abbas Albanai <xabbasoo@icloud.com>
+Name: TextNowNOADS
